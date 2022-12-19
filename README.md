@@ -4,9 +4,9 @@
 
 Welcome to the Immersive Zone for iOS! This app utilizes the Vuforia Engine to scan area targets and generate 3D models using Unity. The app is designed to run on iOS devices and has been tested on the following versions of iOS:
 
-iOS 14.0
-iOS 13.7
-iOS 13.6
+"iOS 14.0"
+"iOS 13.7"
+"iOS 13.6"
 
 ## Getting Started
 
