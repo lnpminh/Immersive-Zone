@@ -1,5 +1,6 @@
-<< IMMERSIVE ZONE >> 
-Introduction
+# IMMERSIVE ZONE 
+
+## **Introduction
 
 Welcome to the Vuforia + Unity app for iOS! This app utilizes the Vuforia Engine to scan area targets and generate 3D models using Unity. The app is designed to run on iOS devices and has been tested on the following versions of iOS:
 
