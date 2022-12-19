@@ -1,22 +1,18 @@
-# Immersive-Zone
-ARTI_602 - Final Project
+<< IMMERSIVE ZONE >> 
 Introduction
 
-Welcome to the Vuforia + Unity app for iOS! This app utilizes the Vuforia Engine to scan area targets and generate 3D models using Unity. The app is designed to run on iOS devices and has been tested on the latest versions of iOS.
+Welcome to the Vuforia + Unity app for iOS! This app utilizes the Vuforia Engine to scan area targets and generate 3D models using Unity. The app is designed to run on iOS devices and has been tested on the following versions of iOS:
 
-Prerequisites
-
-Before you can use the Vuforia + Unity app, make sure you have the following:
-
-An iOS device running the latest version of iOS.
-The latest version of the Vuforia + Unity app installed on your device.
+iOS 14.0
+iOS 13.7
+iOS 13.6
 Getting Started
 
-To get started with the Vuforia + Unity app, follow these steps:
+To get started with the Vuforia + Unity app, you'll need an iOS device running one of the supported versions of iOS, as well as an area target to scan.
 
-Open the app and allow it to access your device's camera.
-Print out the provided area target or display it on a flat surface.
-Hold your device steady and scan the area target by holding it up to the target and waiting for the app to process the scan.
+Download and install the latest version of the app from the App Store.
+Open the app and allow it to access your device's camera when prompted.
+Hold your device steady and scan the area target by holding it up to the target and waiting for the app to process the scan. You can find the target image in the targets folder of this repository.
 Once the app has finished processing the scan, it will generate a 3D model on your screen.
 Explore the 3D model by moving your device around and zooming in and out.
 Tips and Tricks
