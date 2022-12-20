@@ -40,7 +40,7 @@ Download and install the latest version of: <br>
 - Unity V3.41: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg?_ga=2.8552242.685981396.1671474123-683382588.1670537005&_gac=1.257148537.1670537413.CjwKCAiAs8acBhA1EiwAgRFdwzvzyI8PZSCW5HUs26FCPkmMS6YQiTg7s8YPAP__Mubr37puxH1O6BoCy5EQAvD_BwE <br>
 
 
-## Instruction
+## Instructions
 
 - Open AreaTargetScan and allow it to access your device's camera when prompted. <br>
 - Scan the area under 5 minutes to avoid crashing <br> 
