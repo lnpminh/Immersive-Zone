@@ -28,18 +28,29 @@ iOS 13.6 <br>
 
 ## Getting Started
 
-To get started with the Immersive Zone, you'll need an iOS device running one of the supported versions of iOS, as well as an area target to scan.
+To get started with the Immersive Zone, you'll need an iOS device running one of the supported versions of iOS, as well as an designated area target to scan.
 
-Download and install the latest version of Arena Target Scan from Vuforia and Unity <br>
-Open the app and allow it to access your device's camera when prompted. <br>
+Download and install the latest version of <br>
+- Vuforia Engine SDK: https://developer.vuforia.com/downloads/SDK <br>
+- Area Target Scan by Vufuria on App Store: https://developer.vuforia.com/downloads/tool/areatargetscan
+- Unity V3.41: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg?_ga=2.8552242.685981396.1671474123-683382588.1670537005&_gac=1.257148537.1670537413.CjwKCAiAs8acBhA1EiwAgRFdwzvzyI8PZSCW5HUs26FCPkmMS6YQiTg7s8YPAP__Mubr37puxH1O6BoCy5EQAvD_BwE <br>
+
+
+## Instruction
+
+Open AreaTargetScan and allow it to access your device's camera when prompted. <br>
+Scan the area under 5 minutes to avoid crashing <br> 
 Hold your device steady and scan the area target by holding it up to the target and waiting for the app to process the scan. You can find the target image in the targets folder of this repository. <br>
 Once the app has finished processing the scan, it will generate a 3D model on your screen. <br>
 Explore the 3D model by moving your device around and zooming in and out.<br>
+Share the 3D model and import the package into unity (ensure your unity have installed Vuforia Engine) <br>
+Once the targetscan is in Unity, you can start placing furnitures or any items that you want buyers to see <br>
 
 ## Tips and Tricks
 
 Make sure you have sufficient lighting when scanning the area target.<br>
-Hold your device steady to get the best scan results.<br>
+Have at least 20GB available on your storage <br>
+Hold your device steady and move slowly to get the best scan results.<br>
 If the app is having trouble generating the 3D model, try moving your device around and scanning different areas of the target.<br>
 
 ## Troubleshooting
