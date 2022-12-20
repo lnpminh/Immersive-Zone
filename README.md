@@ -61,6 +61,10 @@ If the app is having trouble generating the 3D model, try moving your device aro
 
 If you encounter any issues while using the Immersive Zone, please don't hesitate to open an issue on our GitHub repository. We'll do our best to help you out and improve the app.
 
+## Figma file 
+
+Immersive zone Interface Prototype: https://www.figma.com/proto/hFQkmde7JM0gqGBDjrRyiI/Immersive-Zone?page-id=0%3A1&node-id=2%3A2&viewport=-464%2C-198%2C0.27&scaling=scale-down&starting-point-node-id=2%3A2
+
 ## Conclusion
 
 We hope you enjoy using the Immersive Zone app for iOS! If you have any suggestions for improvement, we'd love to hear them. Thanks for using the app!
