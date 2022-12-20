@@ -20,19 +20,16 @@ To optimize the app for performance and provide a seamless AR experience on iOS 
 
 ## UX Research
 
-For further research of why we created this app, please go to: https://docs.google.com/presentation/d/1CZ8bgVWiNIM6L2W3jG6LWwfqnjb3hSlK/edit?usp=sharing&ouid=117675985049302586729&rtpof=true&sd=true for further interview data and other information. 
-
-
-Welcome to the Immersive Zone for iOS! This app utilizes the Vuforia Engine to scan area targets and generate 3D models using Unity. 
+For further research, additional data, interview repositories of why we created this app, please go to: https://docs.google.com/presentation/d/1CZ8bgVWiNIM6L2W3jG6LWwfqnjb3hSlK/edit?usp=sharing&ouid=117675985049302586729&rtpof=true&sd=true 
 
 ## Getting Started
 
 Immersive Zone is designed to run on iOS devices and has been tested on the following versions of iOS: <br>
 iOS 16.1.1 <br>
 iOS 16.1.0 <br>
-iOS 14.0 <br>
-iOS 13.7 <br>
-iOS 13.6 <br>
+iOS 15.6 <br>
+iOS 14.7 <br>
+iOS 14.6 <br>
 
 To get started with the Immersive Zone, you'll need an iOS device running one of the supported versions of iOS, as well as an designated area target to scan.
 
