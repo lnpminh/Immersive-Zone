@@ -1,5 +1,23 @@
 # IMMERSIVE ZONE 
 
+## Project Overview 
+
+The Immersive Zone app is an augmented reality (AR) app that allows users to scan an area and generate a 3D model of that space. Once the space has been scanned, users can place virtual furniture in the 3D model to see how it would look in the real space. The end product is a realistic AR experience that allows users to visualize furniture in their space through the lens of their iPhone camera.
+
+## Goal
+
+The goal of the Immersive Zone app is to provide users with an easy and intuitive way to visualize furniture in their space. By using AR technology, the app allows users to see how different furniture options would look in their space when it comes to staging a house for sell. 
+
+This helps realtors save operating expenses with different furnitures staging styles, and buyers make informed buying decisions. 
+
+## Objectives
+
+To create an AR app that allows users to scan an area and generate a 3D model of that space.
+To allow users to place virtual furniture in the 3D model and see how it would look in the real space.
+To provide users with a realistic AR experience that allows them to visualize furniture in their space through the lens of their iPhone camera.
+To create an intuitive and user-friendly interface that makes it easy for users to scan and place furniture in their space.
+To optimize the app for performance and provide a seamless AR experience on iOS devices.
+
 ## Introduction
 
 Welcome to the Immersive Zone for iOS! This app utilizes the Vuforia Engine to scan area targets and generate 3D models using Unity. The app is designed to run on iOS devices and has been tested on the following versions of iOS:
