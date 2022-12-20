@@ -6,9 +6,7 @@ The Immersive Zone app is an augmented reality (AR) app that allows users to sca
 
 ## Goal
 
-The goal of the Immersive Zone app is to provide users with an easy and intuitive way to visualize furniture in their space. By using AR technology, the app allows users to see how different furniture options would look in their space when it comes to staging a house for sell. <br>
-
-This helps realtors save operating expenses with different furnitures staging styles, and buyers make informed buying decisions. 
+The goal of the Immersive Zone app is allowing realtors to save operating expenses with different furnitures staging styles, and help buyers make informed purchasing decisions with better visualiztion.
 
 ## Objectives
 
