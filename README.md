@@ -18,6 +18,10 @@ To provide users with a realistic AR experience that allows them to visualize fu
 To create an intuitive and user-friendly interface that makes it easy for users to scan and place furniture in their space.<br>
 To optimize the app for performance and provide a seamless AR experience on iOS devices.<br>
 
+## UX Research
+
+For further research of why we created this app, please go to: https://docs.google.com/presentation/d/1CZ8bgVWiNIM6L2W3jG6LWwfqnjb3hSlK/edit?usp=sharing&ouid=117675985049302586729&rtpof=true&sd=true for further interview data and other information. 
+
 ## Introduction
 
 Welcome to the Immersive Zone for iOS! This app utilizes the Vuforia Engine to scan area targets and generate 3D models using Unity. The app is designed to run on iOS devices and has been tested on the following versions of iOS:
