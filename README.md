@@ -1,4 +1,4 @@
-# IMMERSIVE ZONE 
+# Welcome to IMMERSIVE ZONE 
 
 ## Project Overview 
 
