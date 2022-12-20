@@ -28,6 +28,8 @@ Welcome to the Immersive Zone for iOS! This app utilizes the Vuforia Engine to s
 ## Getting Started
 
 Immersive Zone is designed to run on iOS devices and has been tested on the following versions of iOS: <br>
+iOS 16.1.1 <br>
+iOS 16.1.0 <br>
 iOS 14.0 <br>
 iOS 13.7 <br>
 iOS 13.6 <br>
