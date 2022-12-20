@@ -22,19 +22,19 @@ To optimize the app for performance and provide a seamless AR experience on iOS 
 
 For further research of why we created this app, please go to: https://docs.google.com/presentation/d/1CZ8bgVWiNIM6L2W3jG6LWwfqnjb3hSlK/edit?usp=sharing&ouid=117675985049302586729&rtpof=true&sd=true for further interview data and other information. 
 
-## Introduction
 
-Welcome to the Immersive Zone for iOS! This app utilizes the Vuforia Engine to scan area targets and generate 3D models using Unity. The app is designed to run on iOS devices and has been tested on the following versions of iOS:
+Welcome to the Immersive Zone for iOS! This app utilizes the Vuforia Engine to scan area targets and generate 3D models using Unity. 
 
+## Getting Started
+
+Immersive Zone is designed to run on iOS devices and has been tested on the following versions of iOS: <br>
 iOS 14.0 <br>
 iOS 13.7 <br>
 iOS 13.6 <br>
 
-## Getting Started
-
 To get started with the Immersive Zone, you'll need an iOS device running one of the supported versions of iOS, as well as an designated area target to scan.
 
-Download and install the latest version of <br>
+Download and install the latest version of: <br>
 - Vuforia Engine SDK: https://developer.vuforia.com/downloads/SDK <br>
 - Area Target Scan by Vufuria on App Store: https://developer.vuforia.com/downloads/tool/areatargetscan
 - Unity V3.41: https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg?_ga=2.8552242.685981396.1671474123-683382588.1670537005&_gac=1.257148537.1670537413.CjwKCAiAs8acBhA1EiwAgRFdwzvzyI8PZSCW5HUs26FCPkmMS6YQiTg7s8YPAP__Mubr37puxH1O6BoCy5EQAvD_BwE <br>
@@ -42,20 +42,20 @@ Download and install the latest version of <br>
 
 ## Instruction
 
-Open AreaTargetScan and allow it to access your device's camera when prompted. <br>
-Scan the area under 5 minutes to avoid crashing <br> 
-Hold your device steady and scan the area target by holding it up to the target and waiting for the app to process the scan. You can find the target image in the targets folder of this repository. <br>
-Once the app has finished processing the scan, it will generate a 3D model on your screen. <br>
-Explore the 3D model by moving your device around and zooming in and out.<br>
-Share the 3D model and import the package into unity (ensure your unity have installed Vuforia Engine) <br>
-Once the targetscan is in Unity, you can start placing furnitures or any items that you want buyers to see <br>
+- Open AreaTargetScan and allow it to access your device's camera when prompted. <br>
+- Scan the area under 5 minutes to avoid crashing <br> 
+- Hold your device steady and scan the area target by holding it up to the target and waiting for the app to process the scan. You can find the target image in the targets folder of this repository. <br>
+- Once the app has finished processing the scan, it will generate a 3D model on your screen. <br>
+- Explore the 3D model by moving your device around and zooming in and out.<br>
+- Share the 3D model and import the package into unity (ensure your unity have installed Vuforia Engine) <br>
+- Once the targetscan is in Unity, you can start placing furnitures or any items that you want buyers to see <br>
 
 ## Tips and Tricks
 
-Make sure you have sufficient lighting when scanning the area target.<br>
-Have at least 20GB available on your storage <br>
-Hold your device steady and move slowly to get the best scan results.<br>
-If the app is having trouble generating the 3D model, try moving your device around and scanning different areas of the target.<br>
+- Make sure you have sufficient lighting when scanning the area target.<br>
+- Have at least 20GB available on your storage <br>
+- Hold your device steady and move slowly to get the best scan results.<br>
+- If the app is having trouble generating the 3D model, try moving your device around and scanning different areas of the target.<br>
 
 ## Troubleshooting
 
@@ -67,4 +67,6 @@ Immersive zone Interface Prototype: https://www.figma.com/proto/hFQkmde7JM0gqGBD
 
 ## Conclusion
 
-We hope you enjoy using the Immersive Zone app for iOS! If you have any suggestions for improvement, we'd love to hear them. Thanks for using the app!
+We hope you enjoy using the Immersive Zone app for iOS! If you have any suggestions for improvement, we'd love to hear them. Thanks for using the app! 
+
+ML
